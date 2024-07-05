@@ -1,0 +1,9 @@
+numpy
+pandas
+scipy
+dash
+dash-bootstrap-components
+dash-mantine-components
+transformers
+datasets
+torch
